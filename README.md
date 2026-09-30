@@ -42,7 +42,7 @@ The project features **two interactive dashboards** built to analyze app popular
 
 This dashboard provides an overview of the Google Play Store ecosystem, highlighting app distribution, popularity, and performance.
 
-![App Market Intelligence Dashboard](screenshots/App_market_overview.png)
+![App Market Intelligence Dashboard](App_market_overview.png)
 
 **Key Insights:**
 
@@ -52,7 +52,7 @@ This dashboard provides an overview of the Google Play Store ecosystem, highligh
 - Free vs. paid app distribution
 - App distribution by content rating
 
-**🤖 Dashboard 1 Prompt:**
+**🤖 Dashboard 1 :**
 
 ```text
 Create an interactive dashboard titled "App Market Intelligence & Performance Analytics" using the Google Play Store dataset (columns: App, Category, Rating, Reviews, Installs, Type, Price, Content Rating, Genres).
@@ -74,7 +74,7 @@ Use Python (Pandas, Plotly) or Power BI. Clean the data first (convert Installs 
 
 This dashboard focuses on category-level market positioning, app distribution, and monetization trends, with interactive filters for deeper analysis.
 
-![App Performance & Market Positioning Dashboard](screenshots/App_performance.png)
+![App Performance & Market Positioning Dashboard](App_performance.png)
 
 **Key Insights:**
 
@@ -84,7 +84,7 @@ This dashboard focuses on category-level market positioning, app distribution, a
 - Monetization analysis by content rating
 - Detailed app-level comparison of categories, reviews, and ratings
 
-**🤖 Dashboard 2 Prompt:**
+**🤖 Dashboard 2 :**
 
 ```text
 Create an interactive dashboard titled "App Performance & Market Positioning" using the Google Play Store dataset (columns: App, Category, Rating, Reviews, Installs, Type, Price, Content Rating, Genres).
@@ -148,7 +148,7 @@ To transform Google Play Store data into **meaningful insights** that help under
 
 ---
 
-##**GitHub**
+**GitHub**
 💻 (https://github.com/your-username)
 
 ⭐ *If you found this project useful, please give it a star!*
