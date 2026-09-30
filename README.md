@@ -52,7 +52,7 @@ This dashboard provides an overview of the Google Play Store ecosystem, highligh
 - Free vs. paid app distribution
 - App distribution by content rating
 
-**🤖 Dashboard 1 :**
+**🤖 Dashboard 1 prompt:**
 
 ```text
 Create an interactive dashboard titled "App Market Intelligence & Performance Analytics" using the Google Play Store dataset (columns: App, Category, Rating, Reviews, Installs, Type, Price, Content Rating, Genres).
@@ -84,7 +84,7 @@ This dashboard focuses on category-level market positioning, app distribution, a
 - Monetization analysis by content rating
 - Detailed app-level comparison of categories, reviews, and ratings
 
-**🤖 Dashboard 2 :**
+**🤖 Dashboard 2 prompt:**
 
 ```text
 Create an interactive dashboard titled "App Performance & Market Positioning" using the Google Play Store dataset (columns: App, Category, Rating, Reviews, Installs, Type, Price, Content Rating, Genres).
@@ -149,6 +149,6 @@ To transform Google Play Store data into **meaningful insights** that help under
 ---
 
 **GitHub**
-💻 (https://github.com/your-username)
+💻 (https://github.com/palaktonke06-a11y)
 
 ⭐ *If you found this project useful, please give it a star!*
